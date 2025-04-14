@@ -3,7 +3,7 @@ import { Suspense } from "react";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "PrepWise - AI Mock Interviews",
+  title: "MockAI - Practice Interviews Seamlessly",
   description: "Practice job interviews with AI",
 };
 
